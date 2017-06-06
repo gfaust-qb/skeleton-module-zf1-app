@@ -18,3 +18,8 @@ Skeleton to setup zendframework 1 modules like described in [https://framework.z
   * `helpers/`
   * `scripts/`
 * `Bootstrap.php`
+
+## Usage
+
+1. Create basic structure for your module with this composer-package.
+2. Update Classname in `Bootstrap.php` to one according to your module's name.
