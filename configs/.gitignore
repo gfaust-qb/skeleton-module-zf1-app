@@ -1,0 +1,2 @@
+# avoid application.ini from committing
+application.ini
