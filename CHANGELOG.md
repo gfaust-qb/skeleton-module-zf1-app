@@ -1,6 +1,9 @@
 # Changelog
 ## Version History
 ### 2017-06-07
+* Add `composer.json`
+  * Update `CHANGELOG.md`
+  * Create `composer.json`
 * Update Documentation
   * Update `CHANGELOG.md`
   * Update `README.md`
