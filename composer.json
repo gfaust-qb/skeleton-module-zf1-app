@@ -1,0 +1,37 @@
+{
+  "name": "gfaust-qb/skeleton-module-zf1-app",
+
+  "description": "Skeleton to setup zendframework 1 modules like described in zend framework 1 reference.",
+
+  "version": "0.0.1-alpha1",
+
+  "type": "zend1-module",
+  
+  "license": "MIT",
+
+  "authors": [
+      {
+          "name": "Guido Faust",
+          "email": "guido.faust@questback.com",
+          "homepage": "http://www.questback.de",
+          "role": "Senior Technical Consultant"
+      }
+  ],
+
+  "require": {
+    "xemlock/zend1-composer-installer": "*",
+    "php-di/php-di": "4.4.*",
+    "php-di/zf1-bridge": "2.0.*"
+  },
+
+  "require-dev": {
+    "pds/skeleton": "1.*",
+    "gfaust-qb/qa-build-tools": "@dev"
+  },
+
+  "suggest": {
+    "zendframework/zendframework1": "The complete Zend Framework 1",
+    "zf1/zend-controller": "The Zend Controller package only",
+    "phpseclib/phpseclib": "PHPSecLib 2.0.*"
+  }
+}
