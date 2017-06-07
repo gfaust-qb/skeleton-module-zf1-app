@@ -27,4 +27,5 @@ Skeleton to setup zendframework 1 modules like described in [https://framework.z
 
 ## Notice
 
-You can do this on the CLI with the Zend_Tool like described in [Using Zend_Tool On The Command Line](https://framework.zend.com/manual/1.12/en/zend.tool.usage.cli.html)
+You can also do this on the CLI with the Zend_Tool like described in [Using Zend_Tool On The Command Line](https://framework.zend.com/manual/1.12/en/zend.tool.usage.cli.html).
+The related command is `zf create module <MODULENAME>`.
