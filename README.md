@@ -3,7 +3,7 @@ Skeleton to setup zendframework 1 modules like described in [https://framework.z
 
 ## Suggested structure
 * `configs/`
-  * `application.ini`
+  * `application.ini.dist`
 * `controllers/`
   * `helpers/`
 * `forms/`
@@ -18,6 +18,10 @@ Skeleton to setup zendframework 1 modules like described in [https://framework.z
   * `helpers/`
   * `scripts/`
 * `Bootstrap.php`
+* [CHANGELOG.md](./CHANGELOG.md)
+* [LICENSE](./LICENSE)
+* [README.md](./README.md) (this file)
+* `composer.json`
 
 ## Usage
 
