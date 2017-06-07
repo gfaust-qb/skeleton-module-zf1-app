@@ -1,3 +1,5 @@
+<?php
+
 /**
  * @see https://mwop.net/blog/234-Module-Bootstraps-in-Zend-Framework-Dos-and-Donts.html
  */
